@@ -2,6 +2,12 @@
   "wallpapers": [
     {
       "author": "Derek Vogelpohl",
+      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-pink.jpg",
+      "name": "Material Pink",
+      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-pink.jpg"
+    },
+    {
+      "author": "Derek Vogelpohl",
       "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-purple.jpg",
       "name": "Material Purple",
       "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-purple.jpg"
@@ -17,12 +23,6 @@
       "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-blue.jpg",
       "name": "Material Blue",
       "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-blue.jpg"
-    },
-    {
-      "author": "Derek Vogelpohl",
-      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-teal.jpg",
-      "name": "Material Teal",
-      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-teal.jpg"
     }
   ]
 }
