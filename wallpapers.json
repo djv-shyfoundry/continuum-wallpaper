@@ -2,27 +2,27 @@
   "wallpapers": [
     {
       "author": "Derek Vogelpohl",
-      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-purple.jpg",
-      "name": "Material Purple",
-      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-purple.jpg"
+      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-array-purple.jpg",
+      "name": "Material Array - Purple",
+      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-array-purple.jpg"
     },
     {
       "author": "Derek Vogelpohl",
-      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-indigo.jpg",
-      "name": "Material Indigo",
-      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-indigo.jpg"
+      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-array-indigo.jpg",
+      "name": "Material Array - Indigo",
+      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-array-indigo.jpg"
     },
     {
       "author": "Derek Vogelpohl",
-      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-blue.jpg",
-      "name": "Material Blue",
-      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-blue.jpg"
+      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-array-blue.jpg",
+      "name": "Material Array - Blue",
+      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-array-blue.jpg"
     },
     {
       "author": "Derek Vogelpohl",
-      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-cyan.jpg",
-      "name": "Material Cyan",
-      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-001-cyan.jpg"
+      "url": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-array-teal.jpg",
+      "name": "Material Array - Teal",
+      "thumbnail": "https://raw.githubusercontent.com/djv-shyfoundry/continuum-wallpaper/master/material/material-array-teal.jpg"
     }
   ]
 }
